@@ -1,0 +1,36 @@
+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
+
+
+
+
+
+
+
+
+
+echo "# love" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/saipkshetty/love.git
+git push -u origin main
+
+
+
+git config --global user.email "shettysaipk248.com"
+
+
+ git config --global user.name "love"
+
+
+
+
+this code belong to mitun repo
+echo "# mitun" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/saipkshetty/mitun.git
+git push -u origin main
